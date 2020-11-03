@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UTS No 1</string>
+    <string name="judul_awal">Profil Fakultas UPN</string>
+    <string name="logo">logo_upn</string>
+    <string name="list_nama_fakultas">list nama fakultas</string>
+    <string name="text_isi_nama_fakultas">text isi nama fakultas</string>
+    <string name="desc_isi_fakultas">TextView</string>
+    <string name="text_isi_jurusan">TextView</string>
+    <string name="todo">TODO</string>
+
+</resources>
