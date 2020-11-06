@@ -7,5 +7,9 @@
     <string name="desc_isi_fakultas">TextView</string>
     <string name="text_isi_jurusan">TextView</string>
     <string name="todo">TODO</string>
+    <string name="https_www_google_com">https_www_google_com</string>
+    <string name="website">website</string>
+    <string name="yusuf_ardiansyah2807_gmail_com">yusuf.ardiansyah2807_gmail_com</string>
+    <string name="email">email</string>
 
 </resources>

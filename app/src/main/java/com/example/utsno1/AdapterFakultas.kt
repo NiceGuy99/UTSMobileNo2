@@ -23,8 +23,9 @@ class AdapterFakultas (val itemfakultas : List<DataFakultas>,
 
     class PartViewHolder (itemView: View) : RecyclerView.ViewHolder(itemView){
         fun bind(data : DataFakultas, clickListener: (DataFakultas) -> Unit) {
-            itemView.gambarfak.setImageResource(data.gambarfakultas)
             itemView.listfak.text = data.namafakultas
+            itemView.gambarfak.setImageResource(data.gambarfakultas)
+            itemView.gambarfak.contentDescription = data.namafakultas
             itemView.setOnClickListener{clickListener(data)}
         }
 
